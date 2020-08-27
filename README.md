@@ -1,2 +1,2 @@
 # SVM-for-cancer
-SVM for the prevention of malignant tumors
+SVM for prevention of malignant tumors
